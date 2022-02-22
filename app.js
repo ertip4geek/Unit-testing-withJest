@@ -26,8 +26,9 @@ const fromYenToPound  = function(valueInYen){
     // retornamos el valor
     return valueInEuro * oneEuroIs['GBP'];
 }
+
+console.log(fromEuroToDollar(1));
 console.log(fromDollarToYen(1));
-console.log(fromEuroToDollar(2));
 console.log(fromYenToPound(1));
 
 // exporta la función para usarla en otros archivos 

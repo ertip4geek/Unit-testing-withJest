@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1645573308902" clover="3.2.0">
+  <project timestamp="1645573308902" name="All files">
+    <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="17" coveredelements="17" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
+    <file name="app.js" path="/workspace/Unit-testing-withJest/app.js">
+      <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
